@@ -1,0 +1,45 @@
+{
+    "name": "Input",
+    "maps": [
+        {
+            "name": "Map",
+            "id": "ddf2ae44-35c3-458f-9696-1f343b54745f",
+            "actions": [
+                {
+                    "name": "Click",
+                    "type": "Button",
+                    "id": "39ab4253-6ce3-45a4-9e61-b8b69b296a7e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "27ad3c9c-ba46-44a3-b44a-eb7b04a24a27",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1f37347c-68b3-40d8-a87a-baa3b9807bc3",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
